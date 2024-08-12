@@ -40,6 +40,7 @@ The provided script scrapes book data from the [Website to Scrape](https://unspl
     ```
 
 3. **Open the `Web_and_image_Scrapping.ipynb` notebook in Google Colab**:
+   [Scrapping notebook](   https://github.com/safwaahmad/WEB-SCRAPPING-AND-IMAGE-SCRAPPING/blob/master/Web_and_image_Scrapping.ipynb)
 
     You can upload the notebook to Google Colab and run the cells to perform the scraping.
 
