@@ -1,4 +1,5 @@
 # Web Scraping with Python in Google Colab
+# Try on Hugging-Face
 This repository contains a Python script for web scraping, designed to run on Google Colab. The script demonstrates how to extract data from a website using the `requests` and `BeautifulSoup` libraries.
 
 ## Table of Contents
