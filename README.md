@@ -7,7 +7,6 @@ This repository contains a Python script for web scraping, designed to run on Go
 - [Overview](#overview)
 - [Setup](#setup)
 - [Usage](#usage)
-
 - [Contributing](#contributing)
 
 ## Overview
